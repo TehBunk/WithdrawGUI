@@ -1,8 +1,0 @@
-name: WithdrawGUI
-version: 1.0
-author: [Wristz, TheProfessorZoom, TheEobardThawne, TehBunk, WeAreAllTheSamePerson]
-main: the.professorzoom.Withdraw
-depend: [Vault]
-
-commands:
-  Withdraw: 
